@@ -1,2 +1,2 @@
 # LocalVerificationCodeDemo
-本地生成验证码demo
+本地生成验证码demo，区分验证码的大小写
